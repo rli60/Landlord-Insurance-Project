@@ -11,7 +11,7 @@ Ensure you have the following installed on your system:
 **Installation**
 1. Clone the repository:
 ```
-git clone https://github.com/CS222-UIUC/main-project-team-65.git
+git clone https://github.com/rli60/Landlord-Insurance-Project.git
 ```
 2. Navigate to the project directory
 
